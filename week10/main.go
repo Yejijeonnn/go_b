@@ -7,7 +7,7 @@ import (
 )
 
 func main() {
-	fmt.Println(mymath.MyPower(2, 10))
+	fmt.Println(mymath.MyPower(2, 9))
 	fmt.Println(mymath.MyAbs(-99))
 	greeting.Hi()
 	greeting.Hello()
